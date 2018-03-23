@@ -1,6 +1,6 @@
 ---
 linters:
-  - flake8
+  - pep8
   - doc8
   - bashate
   - yamllint
